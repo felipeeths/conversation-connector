@@ -1,3 +1,7 @@
+EAASdiNsVNiEBAAP29FoitNqiaCTkHZCjssZA0kWyrRKuFXo2mKNQQZC2clZAAb8LGXjIeBHBxZAKcdt2LsK2iedAU1k9HLYAlpAjAx3FcbIKNL7f9KaJVwj4oBRWpjCIpIJyhrJlb4nw4hlWXte7VD9ttc6OE5V0e5gaUzr5OVQZDZD
+
+
+
 # Deploying with the Conversation connector
 
 The Conversation connector is a set of IBM Cloud Functions components that mediate communication between your Conversation workspace and a Slack or Facebook app, storing session data in a Cloudant database. You can use the connector to quickly deploy your workspace as a chat bot that Slack or Facebook Messenger users can interact with.
