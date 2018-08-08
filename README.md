@@ -1,10 +1,29 @@
+
+
+
 EAASdiNsVNiEBAAP29FoitNqiaCTkHZCjssZA0kWyrRKuFXo2mKNQQZC2clZAAb8LGXjIeBHBxZAKcdt2LsK2iedAU1k9HLYAlpAjAx3FcbIKNL7f9KaJVwj4oBRWpjCIpIJyhrJlb4nw4hlWXte7VD9ttc6OE5V0e5gaUzr5OVQZDZD
 
 
 
 # Deploying with the Conversation connector
 
-The Conversation connector is a set of IBM Cloud Functions components that mediate communication between your Conversation workspace and a Slack or Facebook app, storing session data in a Cloudant database. You can use the connector to quickly deploy your workspace as a chat bot that Slack or Facebook Messenger users can interact with.
+The Conversation connector is a set of IBM Cloud Functions components that mediate communication between your Conversation workspace and a Slack or Facebook app, storing session data in a Cloudant database. You can use the connector to quickly ASSISTANT_USERNAME=3cc48baf-a795-4e42-bef1-3d23b13b16e1
+ASSISTANT_PASSWORD=MQAcD7NoTcMS
+WORKSPACE_ID=558b601b-ca3b-4220-92ba-9b32b1196682
+
+# if is apikeys
+#ASSISTANT_IAM_APIKEY=
+
+#SLACK
+#SLACK_TOKEN=your_slack_bot_token
+
+#FACEBOOK
+FB_ACCESS_TOKEN=EAASdiNsVNiEBAAP29FoitNqiaCTkHZCjssZA0kWyrRKuFXo2mKNQQZC2clZAAb8LGXjIeBHBxZAKcdt2LsK2iedAU1k9HLYAlpAjAx3FcbIKNL7f9KaJVwj4oBRWpjCIpIJyhrJlb4nw4hlWXte7VD9ttc6OE5V0e5gaUzr5OVQZDZD
+FB_VERIFY_TOKEN=trusted@2018
+FB_APP_SECRET=42688dbe55712d42b6ebcabde18e0464
+
+
+deploy your workspace as a chat bot that Slack or Facebook Messenger users can interact with.
 
 For information about how to deploy your workspace using the Conversation connector, see the appropriate README:
 
